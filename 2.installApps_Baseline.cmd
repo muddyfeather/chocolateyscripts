@@ -13,6 +13,8 @@ choco install -y -r 7zip unetbootin putty notepadplusplus greenshot paint.net to
 REM - Additional fonts for monotype
 choco install -y -r hackfont droidsansmono inconsolata dejavufonts
 
+REM Auto Dark Mode App
+choco install -y -r auto-dark-mode
 
 
  
