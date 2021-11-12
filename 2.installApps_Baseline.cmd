@@ -3,8 +3,8 @@ REM Purpose of this script is to install a set of apps that all builds would fin
 REM - @powershell -NoProfile -ExecutionPolicy unrestricted -Command "iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))" && SET PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin
 choco feature enable -n allowGlobalConfirmation
 
+REM Install basic windows QoL tools
 choco install -y -r microsoft-windows-terminal
-
 choco install -y -r auto-dark-mode
 
 REM Install basic GNU utilities
