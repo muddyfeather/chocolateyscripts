@@ -5,7 +5,7 @@ choco install -y -r nmap nano whoiscl winscp winmerge rvtools
 
 REM Install Work applications and utilities
 choco install -y -r SwissFileKnife markdownpad2
-choco install -y -r dupeguru cyberduck icofx adexplorer
+choco install -y -r dupeguru cyberduck adexplorer
 choco install -y -r sql-server-management-studio 
 choco install -y -r azure-data-studio
 choco install -y -r syncback veracrypt wireshark windirstat
