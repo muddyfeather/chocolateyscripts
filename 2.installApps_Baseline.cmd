@@ -14,10 +14,8 @@ REM Install Web Browsers
 choco install -y -r firefox googlechrome
 
 REM Install Utilities
-choco install -y -r 7zip unetbootin putty notepadplusplus greenshot paint.net win32diskimager autoruns filezilla
+choco install -y -r 7zip unetbootin etcher putty notepadplusplus greenshot paint.net win32diskimager autoruns filezilla
 
-REM - Additional fonts for monotype
-choco install -y -r hackfont droidsansmono inconsolata dejavufonts
 
 
 
