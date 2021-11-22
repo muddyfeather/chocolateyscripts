@@ -14,10 +14,12 @@ REM Install Web Browsers
 choco install -y -r firefox googlechrome
 
 REM Install Utilities
-choco install -y -r 7zip unetbootin etcher putty notepadplusplus greenshot paint.net win32diskimager autoruns filezilla
+choco install -y -r 7zip unetbootin etcher putty notepadplusplus greenshot paint.net win32diskimager autoruns filezilla sumatrapdf guiformat
 
 REM Install Hardware utilities
 choco install -y -r logitech-options
+choco install -y -r unifying
+
 
 
 
