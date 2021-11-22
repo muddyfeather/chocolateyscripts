@@ -16,6 +16,9 @@ choco install -y -r firefox googlechrome
 REM Install Utilities
 choco install -y -r 7zip unetbootin etcher putty notepadplusplus greenshot paint.net win32diskimager autoruns filezilla
 
+REM Install Hardware utilities
+choco install -y -r logitech-options
+
 
 
 
