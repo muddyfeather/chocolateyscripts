@@ -31,6 +31,9 @@ choco install -y -r royalts -version 2.2.7.60519
 
 REM Install Jabra Direct for Headsets
 choco install -y -r jabra-direct
+
+REM Install teamviewer remote support
+choco install -y -r teamviewer
  
 
 
